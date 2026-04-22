@@ -1,4 +1,3 @@
-Marketplace Conciliation Analytics
 Ferramenta automatizada para diagnóstico operacional de conciliação em marketplaces. A partir de apenas 3 dados por canal, esta ferramenta gera um relatório Excel completo com 7 análises, KPIs interativos, gráficos e ranking de priorização para automação.
 
 O Problema
